@@ -64,5 +64,6 @@ sudo firewall-cmd --permanent --zone=public --add-port=80/tcp
 sudo firewall-cmd --reload
 sudo firewall-cmd --zone=public --list-ports
 sudo firewall --list-all
+commands edits
 
 
